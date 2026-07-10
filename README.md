@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ASHWIN SAM
+# ⚡ ASHWIN SAM KUMAR C
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Future+Software+Engineer;Java+Developer;DSA+Enthusiast;Web+Developer;Always+Learning+🚀" />
 
@@ -15,7 +15,7 @@
 # 🌌 About Me
 
 ```yaml
-Name: Ashwin Sam
+Name: Ashwin Sam Kumar
 
 Role: Information Technology Student
 
@@ -134,9 +134,9 @@ Interactive Effects
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashwinsam-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsam-codes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -146,7 +146,7 @@ Interactive Effects
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ashwinsam-codes&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -156,7 +156,7 @@ Interactive Effects
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashwinsam-codes&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -166,7 +166,7 @@ Interactive Effects
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinsam-codes&theme=tokyo-night"/>
 
 </p>
 
@@ -176,7 +176,7 @@ Interactive Effects
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ashwinsam-codes/ashwinsam-codes/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -228,15 +228,15 @@ Git                  ██████████████░░░░
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/ashwinsam-codes">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/Ashwin Sam Kumar C">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ashwinsamkuamr2007@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -254,7 +254,7 @@ Git                  ██████████████░░░░
 
 ### 👀 Visitor Counter
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00F5FF"/>
+<img src="https://komarev.com/ghpvc/?username=ashwinsam-codes&style=for-the-badge&color=00F5FF"/>
 
 ⭐ Thanks for visiting my profile!
 
