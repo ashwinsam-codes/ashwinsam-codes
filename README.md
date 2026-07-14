@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🏴‍☠️ ASHWIN SAM KUMAR ⚓
+# 🏴‍☠️ Ashwin Sam Kumar ⚓
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=🏴‍☠️+Welcome+Aboard!;⚓+Java+Developer;💻+DSA+Explorer;🌊+Future+Software+Engineer;🚀+Searching+for+the+Ultimate+Code!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=F7C52B&center=true&vCenter=true&width=900&lines=🏴‍☠️+Welcome+to+the+Grand+Code+Line!;⚓+Future+Software+Engineer;☕+Java+Developer;⚔️+DSA+Explorer;🌊+Never+Stop+Learning"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Grand%20Code%20Line&fontColor=ffffff&fontSize=45&color=0:0B3D91,50:00AEEF,100:FFD700"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Grand%20Code%20Line&fontColor=FFFFFF&fontSize=45&animation=fadeIn&color=0:0055A4,50:00BFFF,100:F7C52B"/>
 
 </div>
 
@@ -16,76 +16,189 @@
 👤 Captain:
   Ashwin Sam Kumar
 
-🎓 Crew:
-  B.Tech Information Technology
-
-🏫 Academy:
+🏫 Crew:
   Jerusalem College of Engineering
 
-⚓ Current Voyage:
-  - Java
-  - Data Structures & Algorithms
-  - Web Development
-  - Spring Boot
+🎓 Rank:
+  3rd Year Information Technology Student
 
-🎯 Ultimate Treasure:
-  Software Engineer at a Product-Based Company
+⚓ Current Voyage:
+  • Java
+  • Data Structures & Algorithms
+  • Web Development
+  • Spring Boot
+
+🏆 Dream:
+  Product Based Software Engineer
+
+🌊 Motto:
+  "Keep sailing until you reach your dream."
 ```
 
 ---
 
-# 🗺️ Adventure Progress
+# 🏴‍☠️ Crew Members
+
+⚔️ Captain → Ashwin Sam Kumar
+
+💻 Shipwright → Java
+
+🌐 Navigator → HTML • CSS • JavaScript
+
+🛡️ Doctor → Debugging
+
+📦 Quartermaster → Git & GitHub
+
+🗺️ Log Pose → DSA
+
+---
+
+# 🗺️ Grand Line Progress
 
 ```text
-⚔️ Java               ████████████████████
+🏝️ East Blue
+████████████████████ 100%
 
-🧠 DSA                █████████████████
+🏝️ Grand Line
+████████████████░░░░ 80%
 
-🌐 HTML & CSS         ██████████████████
+🏝️ New World
+█████████░░░░░░░░░░░ 40%
 
-⚡ JavaScript         ███████████████
+👑 Laugh Tale
+░░░░░░░░░░░░░░░░░░░░ 0%
+```
 
-🛢 SQL                ███████████████
+---
 
-🚀 Spring Boot        ██████░░░░░░░░░░
+# ⚔️ Haki Levels
+
+```text
+Observation Haki (Problem Solving)
+
+██████████████████
+
+Armament Haki (Java)
+
+████████████████████
+
+Conqueror's Haki (Consistency)
+
+█████████████████
 ```
 
 ---
 
 # ⚓ Crew Equipment
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,html,css,js,python,spring,mysql,git,github,vscode"/>
+
+</div>
+
+---
+
+# 🏴 Wanted Skills
+
+☕ Java ★★★★★
+
+🧠 DSA ★★★★★
+
+🌐 Web Development ★★★★☆
+
+🐍 Python ★★★★☆
+
+🛢 SQL ★★★★☆
+
+---
+
+# 🏝️ Islands to Explore
+
+✅ Java
+
+✅ DSA
+
+🔄 Spring Boot
+
+🔄 React
+
+🎯 Full Stack Development
+
+🏆 Product Company Placement
+
+---
+
+# 📜 Captain's Journey
+
+```
+Start College
+     │
+     ▼
+Learn HTML & CSS
+     │
+     ▼
+Java Programming
+     │
+     ▼
+Data Structures
+     │
+     ▼
+Spring Boot
+     │
+     ▼
+Full Stack Development
+     │
+     ▼
+🏆 Dream Job
+```
+
+---
+
+# 📊 Pirate Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏝️ Current Islands
+# 🔥 Voyage Streak
 
-🏝️ Master Java
+<p align="center">
 
-🏝️ Complete DSA
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=algolia&hide_border=true"/>
 
-🏝️ Build Full Stack Projects
-
-🏝️ Learn Spring Boot
-
-🏝️ Crack Placements
-
-🏝️ Keep Exploring New Technologies
+</p>
 
 ---
 
-# 💬 Captain's Motto
+# 🐍 Sea King's Trail
 
-> **"The greatest treasure isn't at the end of the journey—it's the skills you gain along the way."**
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💬 Captain's Quote
+
+> **"A developer's greatest treasure isn't code—it's the knowledge gained from every challenge."**
 
 ---
 
 <div align="center">
 
-### ⭐ Every commit is another step on the Grand Code Line!
+### ⭐ Thanks for sailing through my GitHub! ⭐
+
+🌊 Keep Coding • Keep Exploring • Never Give Up 🏴‍☠️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0055A4,50:00BFFF,100:F7C52B"/>
 
 </div>
